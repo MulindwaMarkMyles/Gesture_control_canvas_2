@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gesture Control Canvas
 
 A Python project using MediaPipe and OpenCV for hand gesture-based drawing on a virtual canvas. Features include:
@@ -17,7 +16,7 @@ Check out the demo: [Gesture_canvas.mp4](Gesture_canvas.mp4)
 Run the script:
 ```bash
 python gesture_canvas.py
-=======
+```
+
 # Gesture-Control-Canvas
 Hand gesture-controlled drawing canvas with color change and clear features
->>>>>>> cebfc87c3930964906fc41ab9bb3ec6e3913771e
